@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Cyba - App Development Studio",
+  "description": "A professional app development studio specializing in modern mobile and web solutions, featuring a full content management system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
